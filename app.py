@@ -52,7 +52,7 @@ def recommend(movie_title):
 # ---------------------------------------------------------
 # 3. TAMPILAN WEB
 # ---------------------------------------------------------
-st.title('🎬 Rekomendasi Film (Versi Ringan)')
+st.title('🎬 Rekomendasi Film')
 
 selected_movie_name = st.selectbox(
     'Pilih Film Favoritmu:',
